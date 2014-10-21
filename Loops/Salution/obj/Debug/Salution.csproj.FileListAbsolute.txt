@@ -1,0 +1,6 @@
+D:\Downloads\Projects\Loops\Salution\bin\Debug\Salution.exe.config
+D:\Downloads\Projects\Loops\Salution\obj\Debug\Salution.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Loops\Salution\bin\Debug\Salution.exe
+D:\Downloads\Projects\Loops\Salution\bin\Debug\Salution.pdb
+D:\Downloads\Projects\Loops\Salution\obj\Debug\Salution.exe
+D:\Downloads\Projects\Loops\Salution\obj\Debug\Salution.pdb

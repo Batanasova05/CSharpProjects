@@ -1,0 +1,6 @@
+D:\Downloads\Projects\Loops\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+D:\Downloads\Projects\Loops\DeckOfCards\bin\Debug\DeckOfCards.exe
+D:\Downloads\Projects\Loops\DeckOfCards\bin\Debug\DeckOfCards.pdb
+D:\Downloads\Projects\Loops\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Loops\DeckOfCards\obj\Debug\DeckOfCards.exe
+D:\Downloads\Projects\Loops\DeckOfCards\obj\Debug\DeckOfCards.pdb

@@ -1,0 +1,6 @@
+D:\Downloads\Projects\01OddEven\BitwiseExtract3\bin\Debug\BitwiseExtract3.exe.config
+D:\Downloads\Projects\01OddEven\BitwiseExtract3\bin\Debug\BitwiseExtract3.exe
+D:\Downloads\Projects\01OddEven\BitwiseExtract3\bin\Debug\BitwiseExtract3.pdb
+D:\Downloads\Projects\01OddEven\BitwiseExtract3\obj\Debug\BitwiseExtract3.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\01OddEven\BitwiseExtract3\obj\Debug\BitwiseExtract3.exe
+D:\Downloads\Projects\01OddEven\BitwiseExtract3\obj\Debug\BitwiseExtract3.pdb

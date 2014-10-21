@@ -1,0 +1,2 @@
+D:\Downloads\Projects\Intro- Programming -Homework\sequence\bin\Debug\sequence.exe.config
+D:\Downloads\Projects\Intro- Programming -Homework\sequence\obj\Debug\sequence.csprojResolveAssemblyReference.cache

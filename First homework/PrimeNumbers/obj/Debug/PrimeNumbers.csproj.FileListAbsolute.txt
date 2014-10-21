@@ -1,0 +1,6 @@
+D:\Downloads\Projects\01OddEven\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\Downloads\Projects\01OddEven\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\01OddEven\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\Downloads\Projects\01OddEven\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\Downloads\Projects\01OddEven\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\Downloads\Projects\01OddEven\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

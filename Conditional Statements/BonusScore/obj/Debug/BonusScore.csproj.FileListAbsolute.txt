@@ -1,0 +1,6 @@
+D:\Downloads\Projects\Conditional Statements\BonusScore\bin\Debug\BonusScore.exe.config
+D:\Downloads\Projects\Conditional Statements\BonusScore\bin\Debug\BonusScore.exe
+D:\Downloads\Projects\Conditional Statements\BonusScore\bin\Debug\BonusScore.pdb
+D:\Downloads\Projects\Conditional Statements\BonusScore\obj\Debug\BonusScore.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Conditional Statements\BonusScore\obj\Debug\BonusScore.exe
+D:\Downloads\Projects\Conditional Statements\BonusScore\obj\Debug\BonusScore.pdb

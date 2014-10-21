@@ -1,0 +1,6 @@
+D:\Downloads\Projects\01OddEven\CheckABit\bin\Debug\CheckABit.exe.config
+D:\Downloads\Projects\01OddEven\CheckABit\obj\Debug\CheckABit.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\01OddEven\CheckABit\bin\Debug\CheckABit.exe
+D:\Downloads\Projects\01OddEven\CheckABit\bin\Debug\CheckABit.pdb
+D:\Downloads\Projects\01OddEven\CheckABit\obj\Debug\CheckABit.exe
+D:\Downloads\Projects\01OddEven\CheckABit\obj\Debug\CheckABit.pdb

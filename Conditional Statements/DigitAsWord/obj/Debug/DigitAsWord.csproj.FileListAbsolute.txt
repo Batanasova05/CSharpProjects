@@ -1,0 +1,5 @@
+D:\Downloads\Projects\Conditional Statements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+D:\Downloads\Projects\Conditional Statements\DigitAsWord\bin\Debug\DigitAsWord.exe
+D:\Downloads\Projects\Conditional Statements\DigitAsWord\bin\Debug\DigitAsWord.pdb
+D:\Downloads\Projects\Conditional Statements\DigitAsWord\obj\Debug\DigitAsWord.exe
+D:\Downloads\Projects\Conditional Statements\DigitAsWord\obj\Debug\DigitAsWord.pdb

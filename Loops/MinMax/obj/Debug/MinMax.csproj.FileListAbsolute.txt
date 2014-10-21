@@ -1,0 +1,6 @@
+D:\Downloads\Projects\Loops\MinMax\bin\Debug\MinMax.exe.config
+D:\Downloads\Projects\Loops\MinMax\obj\Debug\MinMax.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Loops\MinMax\bin\Debug\MinMax.exe
+D:\Downloads\Projects\Loops\MinMax\bin\Debug\MinMax.pdb
+D:\Downloads\Projects\Loops\MinMax\obj\Debug\MinMax.exe
+D:\Downloads\Projects\Loops\MinMax\obj\Debug\MinMax.pdb

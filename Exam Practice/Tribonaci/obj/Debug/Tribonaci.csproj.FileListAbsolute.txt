@@ -1,0 +1,6 @@
+D:\Downloads\Projects\Exam Practice\Tribonaci\bin\Debug\Tribonaci.exe.config
+D:\Downloads\Projects\Exam Practice\Tribonaci\obj\Debug\Tribonaci.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Exam Practice\Tribonaci\bin\Debug\Tribonaci.exe
+D:\Downloads\Projects\Exam Practice\Tribonaci\bin\Debug\Tribonaci.pdb
+D:\Downloads\Projects\Exam Practice\Tribonaci\obj\Debug\Tribonaci.exe
+D:\Downloads\Projects\Exam Practice\Tribonaci\obj\Debug\Tribonaci.pdb

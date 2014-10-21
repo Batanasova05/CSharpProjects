@@ -1,0 +1,5 @@
+D:\Downloads\Projects\ConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+D:\Downloads\Projects\ConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+D:\Downloads\Projects\ConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+D:\Downloads\Projects\ConsoleInputOutput\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+D:\Downloads\Projects\ConsoleInputOutput\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

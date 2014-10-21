@@ -1,0 +1,5 @@
+D:\Downloads\Projects\01OddEven\CircleRectangular\bin\Debug\CircleRectangular.exe.config
+D:\Downloads\Projects\01OddEven\CircleRectangular\bin\Debug\CircleRectangular.exe
+D:\Downloads\Projects\01OddEven\CircleRectangular\bin\Debug\CircleRectangular.pdb
+D:\Downloads\Projects\01OddEven\CircleRectangular\obj\Debug\CircleRectangular.exe
+D:\Downloads\Projects\01OddEven\CircleRectangular\obj\Debug\CircleRectangular.pdb

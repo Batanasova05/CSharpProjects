@@ -1,0 +1,2 @@
+D:\Downloads\Projects\Conditional Statements\BeerTime\bin\Debug\BeerTime.exe.config
+D:\Downloads\Projects\Conditional Statements\BeerTime\obj\Debug\BeerTime.csprojResolveAssemblyReference.cache

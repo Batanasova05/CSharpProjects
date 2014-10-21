@@ -1,0 +1,6 @@
+D:\Downloads\Projects\Exam Practice\Sandlass\bin\Debug\Sandlass.exe.config
+D:\Downloads\Projects\Exam Practice\Sandlass\bin\Debug\Sandlass.exe
+D:\Downloads\Projects\Exam Practice\Sandlass\bin\Debug\Sandlass.pdb
+D:\Downloads\Projects\Exam Practice\Sandlass\obj\Debug\Sandlass.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Exam Practice\Sandlass\obj\Debug\Sandlass.exe
+D:\Downloads\Projects\Exam Practice\Sandlass\obj\Debug\Sandlass.pdb

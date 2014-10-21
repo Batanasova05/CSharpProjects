@@ -1,0 +1,6 @@
+D:\Downloads\Projects\Exam Practice\LeliaVanche\bin\Debug\LeliaVanche.exe.config
+D:\Downloads\Projects\Exam Practice\LeliaVanche\bin\Debug\LeliaVanche.exe
+D:\Downloads\Projects\Exam Practice\LeliaVanche\bin\Debug\LeliaVanche.pdb
+D:\Downloads\Projects\Exam Practice\LeliaVanche\obj\Debug\LeliaVanche.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Exam Practice\LeliaVanche\obj\Debug\LeliaVanche.exe
+D:\Downloads\Projects\Exam Practice\LeliaVanche\obj\Debug\LeliaVanche.pdb

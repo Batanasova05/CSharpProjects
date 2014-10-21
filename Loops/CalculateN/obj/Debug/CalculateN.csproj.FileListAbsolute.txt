@@ -1,0 +1,6 @@
+D:\Downloads\Projects\Loops\CalculateN\bin\Debug\CalculateN.exe.config
+D:\Downloads\Projects\Loops\CalculateN\obj\Debug\CalculateN.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Loops\CalculateN\bin\Debug\CalculateN.exe
+D:\Downloads\Projects\Loops\CalculateN\bin\Debug\CalculateN.pdb
+D:\Downloads\Projects\Loops\CalculateN\obj\Debug\CalculateN.exe
+D:\Downloads\Projects\Loops\CalculateN\obj\Debug\CalculateN.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\Projects\01OddEven\PointInACircle\bin\Debug\PointInACircle.exe.config
+D:\Downloads\Projects\01OddEven\PointInACircle\bin\Debug\PointInACircle.exe
+D:\Downloads\Projects\01OddEven\PointInACircle\bin\Debug\PointInACircle.pdb
+D:\Downloads\Projects\01OddEven\PointInACircle\obj\Debug\PointInACircle.exe
+D:\Downloads\Projects\01OddEven\PointInACircle\obj\Debug\PointInACircle.pdb

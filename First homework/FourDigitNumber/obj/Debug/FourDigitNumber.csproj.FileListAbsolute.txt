@@ -1,0 +1,5 @@
+D:\Downloads\Projects\01OddEven\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+D:\Downloads\Projects\01OddEven\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+D:\Downloads\Projects\01OddEven\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+D:\Downloads\Projects\01OddEven\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+D:\Downloads\Projects\01OddEven\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

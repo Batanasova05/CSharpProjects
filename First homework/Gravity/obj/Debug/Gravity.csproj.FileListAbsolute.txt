@@ -1,0 +1,5 @@
+D:\Downloads\Projects\01OddEven\Gravity\bin\Debug\Gravity.exe.config
+D:\Downloads\Projects\01OddEven\Gravity\bin\Debug\Gravity.exe
+D:\Downloads\Projects\01OddEven\Gravity\bin\Debug\Gravity.pdb
+D:\Downloads\Projects\01OddEven\Gravity\obj\Debug\Gravity.exe
+D:\Downloads\Projects\01OddEven\Gravity\obj\Debug\Gravity.pdb

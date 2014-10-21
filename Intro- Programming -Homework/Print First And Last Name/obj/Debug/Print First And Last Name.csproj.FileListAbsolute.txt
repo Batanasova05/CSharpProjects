@@ -1,0 +1,5 @@
+D:\Downloads\Projects\Intro- Programming -Homework\Print First And Last Name\bin\Debug\Print First And Last Name.exe.config
+D:\Downloads\Projects\Intro- Programming -Homework\Print First And Last Name\bin\Debug\Print First And Last Name.exe
+D:\Downloads\Projects\Intro- Programming -Homework\Print First And Last Name\bin\Debug\Print First And Last Name.pdb
+D:\Downloads\Projects\Intro- Programming -Homework\Print First And Last Name\obj\Debug\Print First And Last Name.exe
+D:\Downloads\Projects\Intro- Programming -Homework\Print First And Last Name\obj\Debug\Print First And Last Name.pdb

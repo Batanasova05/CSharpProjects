@@ -1,0 +1,6 @@
+D:\Downloads\Projects\Exam Practice\Arrow\bin\Debug\Arrow.exe.config
+D:\Downloads\Projects\Exam Practice\Arrow\obj\Debug\Arrow.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Exam Practice\Arrow\bin\Debug\Arrow.exe
+D:\Downloads\Projects\Exam Practice\Arrow\bin\Debug\Arrow.pdb
+D:\Downloads\Projects\Exam Practice\Arrow\obj\Debug\Arrow.exe
+D:\Downloads\Projects\Exam Practice\Arrow\obj\Debug\Arrow.pdb

@@ -1,0 +1,5 @@
+D:\Downloads\Projects\Exam Practice\TheExplorer\bin\Debug\TheExplorer.exe.config
+D:\Downloads\Projects\Exam Practice\TheExplorer\bin\Debug\TheExplorer.exe
+D:\Downloads\Projects\Exam Practice\TheExplorer\bin\Debug\TheExplorer.pdb
+D:\Downloads\Projects\Exam Practice\TheExplorer\obj\Debug\TheExplorer.exe
+D:\Downloads\Projects\Exam Practice\TheExplorer\obj\Debug\TheExplorer.pdb

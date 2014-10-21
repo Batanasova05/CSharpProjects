@@ -1,0 +1,5 @@
+D:\Downloads\Projects\ConsoleInputOutput\NumberCompare\bin\Debug\NumberCompare.exe.config
+D:\Downloads\Projects\ConsoleInputOutput\NumberCompare\bin\Debug\NumberCompare.exe
+D:\Downloads\Projects\ConsoleInputOutput\NumberCompare\bin\Debug\NumberCompare.pdb
+D:\Downloads\Projects\ConsoleInputOutput\NumberCompare\obj\Debug\NumberCompare.exe
+D:\Downloads\Projects\ConsoleInputOutput\NumberCompare\obj\Debug\NumberCompare.pdb

@@ -1,0 +1,6 @@
+D:\Downloads\Projects\01OddEven\3rdDigitIs7\bin\Debug\3rdDigitIs7.exe.config
+D:\Downloads\Projects\01OddEven\3rdDigitIs7\bin\Debug\3rdDigitIs7.exe
+D:\Downloads\Projects\01OddEven\3rdDigitIs7\bin\Debug\3rdDigitIs7.pdb
+D:\Downloads\Projects\01OddEven\3rdDigitIs7\obj\Debug\3rdDigitIs7.exe
+D:\Downloads\Projects\01OddEven\3rdDigitIs7\obj\Debug\3rdDigitIs7.pdb
+D:\Downloads\Projects\01OddEven\3rdDigitIs7\obj\Debug\3rdDigitIs7.csprojResolveAssemblyReference.cache

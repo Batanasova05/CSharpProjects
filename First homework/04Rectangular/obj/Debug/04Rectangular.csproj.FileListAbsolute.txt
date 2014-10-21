@@ -1,0 +1,5 @@
+D:\Downloads\Projects\01OddEven\04Rectangular\bin\Debug\04Rectangular.exe.config
+D:\Downloads\Projects\01OddEven\04Rectangular\bin\Debug\04Rectangular.exe
+D:\Downloads\Projects\01OddEven\04Rectangular\bin\Debug\04Rectangular.pdb
+D:\Downloads\Projects\01OddEven\04Rectangular\obj\Debug\04Rectangular.exe
+D:\Downloads\Projects\01OddEven\04Rectangular\obj\Debug\04Rectangular.pdb

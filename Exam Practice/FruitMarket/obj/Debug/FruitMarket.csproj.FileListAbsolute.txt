@@ -1,0 +1,6 @@
+D:\Downloads\Projects\Exam Practice\FruitMarket\bin\Debug\FruitMarket.exe.config
+D:\Downloads\Projects\Exam Practice\FruitMarket\bin\Debug\FruitMarket.exe
+D:\Downloads\Projects\Exam Practice\FruitMarket\bin\Debug\FruitMarket.pdb
+D:\Downloads\Projects\Exam Practice\FruitMarket\obj\Debug\FruitMarket.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\Exam Practice\FruitMarket\obj\Debug\FruitMarket.exe
+D:\Downloads\Projects\Exam Practice\FruitMarket\obj\Debug\FruitMarket.pdb

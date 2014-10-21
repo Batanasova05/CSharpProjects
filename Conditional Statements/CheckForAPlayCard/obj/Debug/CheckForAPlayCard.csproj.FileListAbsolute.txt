@@ -1,0 +1,5 @@
+D:\Downloads\Projects\Conditional Statements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config
+D:\Downloads\Projects\Conditional Statements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe
+D:\Downloads\Projects\Conditional Statements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.pdb
+D:\Downloads\Projects\Conditional Statements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.exe
+D:\Downloads\Projects\Conditional Statements\CheckForAPlayCard\obj\Debug\CheckForAPlayCard.pdb

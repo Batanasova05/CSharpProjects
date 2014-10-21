@@ -1,0 +1,5 @@
+D:\Downloads\Projects\01OddEven\Trapece\bin\Debug\Trapece.exe.config
+D:\Downloads\Projects\01OddEven\Trapece\bin\Debug\Trapece.exe
+D:\Downloads\Projects\01OddEven\Trapece\bin\Debug\Trapece.pdb
+D:\Downloads\Projects\01OddEven\Trapece\obj\Debug\Trapece.exe
+D:\Downloads\Projects\01OddEven\Trapece\obj\Debug\Trapece.pdb

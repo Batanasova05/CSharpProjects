@@ -1,0 +1,6 @@
+D:\Downloads\Projects\ConsoleInputOutput\FormatingNumbers\bin\Debug\FormatingNumbers.exe.config
+D:\Downloads\Projects\ConsoleInputOutput\FormatingNumbers\obj\Debug\FormatingNumbers.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\ConsoleInputOutput\FormatingNumbers\bin\Debug\FormatingNumbers.exe
+D:\Downloads\Projects\ConsoleInputOutput\FormatingNumbers\bin\Debug\FormatingNumbers.pdb
+D:\Downloads\Projects\ConsoleInputOutput\FormatingNumbers\obj\Debug\FormatingNumbers.exe
+D:\Downloads\Projects\ConsoleInputOutput\FormatingNumbers\obj\Debug\FormatingNumbers.pdb

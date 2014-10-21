@@ -1,0 +1,3 @@
+D:\Downloads\Projects\Intro- Programming -Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Downloads\Projects\Intro- Programming -Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Downloads\Projects\Intro- Programming -Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

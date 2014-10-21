@@ -1,0 +1,6 @@
+D:\Downloads\Projects\ConsoleInputOutput\QuadraticEquaziation\bin\Debug\QuadraticEquaziation.exe.config
+D:\Downloads\Projects\ConsoleInputOutput\QuadraticEquaziation\bin\Debug\QuadraticEquaziation.exe
+D:\Downloads\Projects\ConsoleInputOutput\QuadraticEquaziation\bin\Debug\QuadraticEquaziation.pdb
+D:\Downloads\Projects\ConsoleInputOutput\QuadraticEquaziation\obj\Debug\QuadraticEquaziation.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\ConsoleInputOutput\QuadraticEquaziation\obj\Debug\QuadraticEquaziation.exe
+D:\Downloads\Projects\ConsoleInputOutput\QuadraticEquaziation\obj\Debug\QuadraticEquaziation.pdb

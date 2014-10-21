@@ -1,0 +1,5 @@
+D:\Downloads\Projects\Intro- Programming -Homework\Hello CSharp\bin\Debug\Hello CSharp.exe.config
+D:\Downloads\Projects\Intro- Programming -Homework\Hello CSharp\bin\Debug\Hello CSharp.exe
+D:\Downloads\Projects\Intro- Programming -Homework\Hello CSharp\bin\Debug\Hello CSharp.pdb
+D:\Downloads\Projects\Intro- Programming -Homework\Hello CSharp\obj\Debug\Hello CSharp.exe
+D:\Downloads\Projects\Intro- Programming -Homework\Hello CSharp\obj\Debug\Hello CSharp.pdb

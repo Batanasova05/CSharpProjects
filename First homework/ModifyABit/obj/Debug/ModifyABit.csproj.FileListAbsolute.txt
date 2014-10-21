@@ -1,0 +1,6 @@
+D:\Downloads\Projects\01OddEven\ModifyABit\bin\Debug\ModifyABit.exe.config
+D:\Downloads\Projects\01OddEven\ModifyABit\bin\Debug\ModifyABit.exe
+D:\Downloads\Projects\01OddEven\ModifyABit\bin\Debug\ModifyABit.pdb
+D:\Downloads\Projects\01OddEven\ModifyABit\obj\Debug\ModifyABit.csprojResolveAssemblyReference.cache
+D:\Downloads\Projects\01OddEven\ModifyABit\obj\Debug\ModifyABit.exe
+D:\Downloads\Projects\01OddEven\ModifyABit\obj\Debug\ModifyABit.pdb

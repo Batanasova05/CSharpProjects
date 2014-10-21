@@ -1,0 +1,5 @@
+D:\Downloads\Projects\Intro- Programming -Homework\Reformating\bin\Debug\Reformating.exe.config
+D:\Downloads\Projects\Intro- Programming -Homework\Reformating\bin\Debug\Reformating.exe
+D:\Downloads\Projects\Intro- Programming -Homework\Reformating\bin\Debug\Reformating.pdb
+D:\Downloads\Projects\Intro- Programming -Homework\Reformating\obj\Debug\Reformating.exe
+D:\Downloads\Projects\Intro- Programming -Homework\Reformating\obj\Debug\Reformating.pdb
